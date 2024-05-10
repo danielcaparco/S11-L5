@@ -1,0 +1,3 @@
+Gli argomenti vengono passati alle funzioni tramite l'istruzione push.
+Alla funzione DownloadToFile viene passato l'url dal quale scaricare il malware.
+Alla funzione WinExec viene passato il malware da avviare.

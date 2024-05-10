@@ -1,0 +1,2 @@
+Il salto viene effetuato alla locazione 00401068.
+jz esegue il salto se i valori di cmp sono uguali, e in questo caso sono uguali.

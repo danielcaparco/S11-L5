@@ -1,0 +1,3 @@
+Le funzionalità sono 2:
+DownloadToFile che scarica un malware da internet.
+WinExec che esgue un malware presente sul computer.
